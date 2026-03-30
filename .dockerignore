@@ -3,7 +3,6 @@ node_modules
 .env
 .env.*
 !.env.template
-package-lock.json
 dist
 .medusa
 specs
