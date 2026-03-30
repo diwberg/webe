@@ -1,0 +1,12 @@
+node_modules
+.git
+.env
+.env.*
+!.env.template
+package-lock.json
+dist
+.medusa
+specs
+brain
+.agent
+*.log
